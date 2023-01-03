@@ -6,3 +6,11 @@ C:\Users\nitin\source\repos\testcode\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.Su
 C:\Users\nitin\source\repos\testcode\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\nitin\source\repos\testcode\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\nitin\source\repos\testcode\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Workspace\samplecode\dotnet-sample\bin\Debug\ConsoleApp1.exe.config
+C:\Workspace\samplecode\dotnet-sample\bin\Debug\ConsoleApp1.exe
+C:\Workspace\samplecode\dotnet-sample\bin\Debug\ConsoleApp1.pdb
+C:\Workspace\samplecode\dotnet-sample\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Workspace\samplecode\dotnet-sample\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\samplecode\dotnet-sample\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Workspace\samplecode\dotnet-sample\obj\Debug\ConsoleApp1.exe
+C:\Workspace\samplecode\dotnet-sample\obj\Debug\ConsoleApp1.pdb
